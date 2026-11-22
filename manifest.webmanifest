@@ -1,0 +1,1 @@
+{"name": "FILM — CCD Camera", "short_name": "FILM", "description": "Плёночная камера для Android с live-пресетами и CCD", "start_url": "./", "scope": "./", "display": "standalone", "orientation": "portrait", "background_color": "#080809", "theme_color": "#080809", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
